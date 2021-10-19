@@ -1,4 +1,4 @@
-# Echo Protocol implementation in Golang
+# TCP Echo Protocol implementation in Golang
 
 Run test with 
 * go test 
