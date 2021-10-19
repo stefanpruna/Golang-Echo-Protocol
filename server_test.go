@@ -29,7 +29,6 @@ func TestServer(t *testing.T) {
 
 	// write a message to the server
 	_, err := write(conn, []byte(message))
-
 	if err != nil {
 		t.Fatalf("Failed to send request: %v", err)
 	} else {

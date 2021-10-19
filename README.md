@@ -1,1 +1,6 @@
-echo_protocol implementation in golang
+# Echo Protocol implementation in Golang
+
+Run test with 
+* go test 
+
+https://datatracker.ietf.org/doc/html/rfc862
